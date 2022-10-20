@@ -1,3 +1,6 @@
+# React Movie App Assignment
+- _Approach_: In order to practice react and react-router, we are going to build a movie application that can display our list of sample movies, add a movie to that list with a form and dynamically display a particular movie based upon the url. We are also going to take advantage of the react-router ```<Outlet/>``` component to render our pages within a layout so we can have navigation elements that remain on the page while our page content dynamically changes.
+
 ## Expanded Instructions  
 
 1) Project Setup
