@@ -4,4 +4,4 @@
 [For the Expanded Instructions click here](./Expanded-Instructions.md)
 
 ## 
-![alt text](https://ibb.co/Gt9xRFn](https://i.ibb.co/xfYC63X/Screen-Shot-1.png) "Screenshot 1")
+![alt text](https://ibb.co/Gt9xRFn](https://i.ibb.co/xfYC63X/Screen-Shot-1.png "Screenshot 1")
