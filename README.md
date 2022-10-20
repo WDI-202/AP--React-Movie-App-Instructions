@@ -4,6 +4,10 @@
 - [For the Expanded Instructions click here](./Expanded-Instructions.md)
 
 
+## File Structure
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qjNMrs0/Screen-Shot-2022-10-19-at-2-57-58-PM.png" alt="Screen-Shot-2022-10-19-at-2-57-58-PM" border="0" /></a>
+
+
 ## Screenshot 1
 ![alt text](https://i.ibb.co/nnBgjR6/Screen-Shot-1.png)
 
