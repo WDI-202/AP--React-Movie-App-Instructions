@@ -30,10 +30,10 @@ export default App;
 	- ./src/Pages/HomePage.js
 - In ./src/Components/NavBar.js, 
 	- Create a new react component <NavBar/> and default export it from the file. 
-	- Set the class of the enclosing <div>'s in <NavBar/> to be the class "nav-bar". [1]
+	- Set the class of the enclosing "<divs>"'s in <NavBar/> to be the class "nav-bar". [1]
 - In ./src/Layouts/NavLayout.js
 	- Create a new react component <NavLayout/> and default export it from the file.
-	- Set the class of the enclosing <div>'s in <NavLayout/> to be "nav-layout"
+	- Set the class of the enclosing "<div>"'s in <NavLayout/> to be "nav-layout"
 	- Import NavBar from "../Components/NavBar" and add an instance of the <NavBar/> component to the JSX of <NavLayout/>
 	- Import { Outlet } from 'react-router-dom' and add it to the JSX of <NavLayout/> below the <NavBar/>. [2]
 - In ./src/Pages/HomePage.js,
