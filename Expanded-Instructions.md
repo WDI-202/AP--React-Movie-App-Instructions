@@ -52,7 +52,7 @@ export default App;
 	- import { createBrowserRouter, RouterProvider } from "react-router-dom".
 	- In the body (above the JSX) of ```<App/>``` create a new variable named router that is set to createBrowserRouter with an empty array as its argument to create a new Browser Router. [3]
 	- Create a new the top level route in the browserRouter by adding an object to the routes array that has the path property set to "/" and the element property set to ```<NavLayout/>```. 
-	- Create a new child route of the "/" route object using the children property that has the index property set to true and the element set to <HomePage/> [4]
+	- Create a new child route of the "/" route object using the children property that has the index property set to true and the element set to ```<HomePage/>``` [4]
 	- In the JSX of ```<App/>```, add a new instance of ```<RouterProvider/>``` and pass in router as a prop. [5]
 	- _Commentary_: By creating the topmost route of "/" to be the ```<NavLayout/>``` element, we are going to render ```<NavLayout/>``` to the page for all of our routes. We set ```<HomePage/>``` to be the index route of "/" so that the <HomePage/> element will display to the page when we visit localhost:3000/. The JSX of ```<HomePage/>``` will render inside of the JSX of ```<NavLayout/>``` since we included the ```<Outlet/>``` component in ```<NavLayout/>```. In this way, we can ensure that the ```<NavBar/>``` displays for every page in our application without having to include it in every file.
 - In ./src/Components/NavBar,
