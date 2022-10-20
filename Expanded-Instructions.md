@@ -1,4 +1,4 @@
-## Expanded Instructions 
+## Expanded Instructions  
 
 1) Project Setup
 - Create a new github repository called react-movie-app and add the link to populi
