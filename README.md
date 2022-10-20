@@ -1,7 +1,7 @@
 # AP--React-Movie-App-Instructions
 
-[For the High Level Instructions click here](./High-Level-Instructions.md)
-[For the Expanded Instructions click here](./Expanded-Instructions.md)
+- [For the High Level Instructions click here](./High-Level-Instructions.md)
+- [For the Expanded Instructions click here](./Expanded-Instructions.md)
 
 
 ## Screenshot 1
