@@ -143,7 +143,7 @@ export default App;
 		- _Note_: 
 			- We're only implementing title for now, but one of the stretch goals is to build out the full form. 
 			- Make sure you pay attention to the casing on the currently existing movie objects in sampleMovies and match the case for your new movie object.
-	- Add a new path to the router as a child of "/movies" with the path "form" and the element of <MovieFormPage/>. Pass handleAddMovie as a prop into ```<MoviePage/>```.
+	- Add a new path to the router as a child of "/movies" with the path "form" and the element of ```<MovieFormPage/>```. Pass handleAddMovie as a prop into ```<MovieFormPage/>```.
 - In ./src/Components/NavBar,
 	- Add a new ```<Link/>``` to the JSX of ```<NavBar/>``` that links to "/movies/form" with the display text of 'Movie Form'. 
 - In ./src/Pages/MovieFormPage.js,
